@@ -2,7 +2,7 @@
 name: Proponer mejoras
 about: Sugerir optimizaciones al código terminado
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
